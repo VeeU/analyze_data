@@ -1,4 +1,4 @@
-import osb
+import os
 import re
 import shutil
 import sys
