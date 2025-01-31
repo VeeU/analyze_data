@@ -1,4 +1,4 @@
-import discordc
+import discorde
 import os
 import json
 import pandas as pd
